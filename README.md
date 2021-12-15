@@ -20,3 +20,9 @@ define("DB_NAME", "websiteproject_database");
 define("DB_CHARSET", "utf8");
 define("DB_USER", "root");
 define("DB_PASSWORD", "root");</code></pre>
+
+## Work cited:
+- https://code-boxx.com/simple-php-mysql-shopping-cart/
+- https://www.youtube.com/watch?v=OpHGOa8aIDY&t=124s
+- https://www.youtube.com/watch?v=37KohMnlP7Q
+- https://youtube.com/playlist?list=PLf-O8h9sx5G9YsZ_k1_ThAL4HCQ-xy835
